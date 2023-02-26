@@ -1,1 +1,1 @@
-Welcome back to KyleVR! As you can see, we added a noticeboard! We have no idea if voice chat is working in other servers.
+Working on hitsounds. Servers fixed!
