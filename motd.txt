@@ -1,1 +1,1 @@
-Working on hitsounds. Servers fixed!
+Voice chat fixed when joining other servers. You now have to leave before joining a new server. Hit sounds have been cancelled for now and will be continued later on. Hand cosmetics now allow you to use either hand.
