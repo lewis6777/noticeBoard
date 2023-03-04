@@ -1,1 +1,7 @@
-Voice chat fixed when joining other servers. You now have to leave before joining a new server. Hit sounds have been cancelled for now and will be continued later on. Hand cosmetics now allow you to use either hand.
+Hello!
+
+Just testing lines on the notice board.
+
+The room next to the treehouse now has a TV which plays one thing and one thing only.
+
+Something I need to say, if you have died in the lava please rejoin the server otherwise it will be buggy. We are currently fixing that.
