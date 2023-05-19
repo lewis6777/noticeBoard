@@ -1,5 +1,4 @@
 Hello!
+As you can see, the computer has had a remake!
 
-I completely forgot to update this. Talking about updates, new update coming soon.
-
-Beta tester hat is still avaliable in shop.
+I've also been experimenting with 3D hitsounds which has resulted in lag. If your game is lagging on boot-up please go into city and out again. Thank you!
