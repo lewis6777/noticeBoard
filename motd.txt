@@ -2,3 +2,5 @@ Hello!
 As you can see, the computer has had a remake!
 
 I've also been experimenting with 3D hitsounds which has resulted in lag. If your game is lagging on boot-up please go into city and out again. Thank you!
+
+Also, I forgot to mention, new font! Pixel font go brrrr
