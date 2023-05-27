@@ -1,6 +1,3 @@
-Hello!
-As you can see, the computer has had a remake!
+27/05/2023
 
-I've also been experimenting with 3D hitsounds which has resulted in lag. If your game is lagging on boot-up please go into city and out again. Thank you!
-
-Also, I forgot to mention, new font! Pixel font go brrrr
+New gamemodes section (games) on the computer. There is a 99.9% chance of it being broken as I couldnt test it without releasing it. Right now its sorta like a tag gamemode but once i redo it it will be a bit different. It might not be a tag gamemode actually its so broken lmao. See ya!
