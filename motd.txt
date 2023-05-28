@@ -1,3 +1,4 @@
 27/05/2023
 
 New gamemodes section (games) on the computer. There is a 99.9% chance of it being broken as I couldnt test it without releasing it. Right now its sorta like a tag gamemode but once i redo it it will be a bit different. It might not be a tag gamemode actually its so broken lmao. See ya!
+(Yeah it was broken. Atleast you can run around the map!)
